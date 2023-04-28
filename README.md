@@ -1,2 +1,2 @@
 # EMS-decoder-of-NB-LDPC-codes
-Extended Min-Sum decoder of NB-LDPC codes. Complexity reduction of MS using truncated low values LLRs. Provide by Professor Emmanuel Boutillon (Lab-STICC)
+The GitHub repository includes the Extended Min-Sum decoder for Non-Binary Low-Density Parity-Check (NB-LDPC) codes. The Extended Min-Sum decoder is a complexity reduction of the Min-Sum (MS) algorithm that uses truncated low values of Log-Likelihood Ratios (LLRs), and it is provided by Professor Emmanuel Boutillon from Lab-STICC.
